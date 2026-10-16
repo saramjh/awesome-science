@@ -62,7 +62,6 @@ The study of how the Universe behaves, and is considered one of the oldest scien
 - [Is Dark matter theory or fact?](https://www.scientificamerican.com/article/is-dark-matter-theory-or/)
 - [New Developments in the Dark Matter Theory](https://www.sciencedaily.com/releases/2020/09/200910150348.htm)
 - [Sixty Symbols](http://sixtysymbols.com/) - An interesting site about the various symbols found throughout Physics and Astronomy.
-- [Space Atlas — Moon Phases](https://saramjh.github.io/space_atlas_student/moon/phases/) - Interactive browser model for exploring how viewing geometry changes the apparent phase of the Moon.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
 - [What would happen if you become Dark Matter](https://www.forbes.com/sites/startswithabang/2017/11/02/what-would-happen-if-you-became-dark-matter/#4c3848ca3fd2)
 #### Youtube Videos
@@ -101,6 +100,7 @@ The study of everything in outer space.
 #### Textbooks/Books
 #### Useful Links
 - [NASA](https://www.nasa.gov) - The official NASA website where a lot of resources and information regarding astrophysics can be found.
+- [Space Atlas — Moon Phases](https://saramjh.github.io/space_atlas_student/moon/phases/) - Interactive browser model for exploring how viewing geometry changes the apparent phase of the Moon.
 - [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) - A playlist that covers everything you could ever want to know about the Universe, that we know about!
 #### Youtube Videos
 #### Youtube Channels
